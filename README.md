@@ -4,11 +4,9 @@
 
 - 🌱 I’m currently improving my **SQL** and **Tableau** skills
 
-- 👨‍💻 All of my projects are available at [ee](ee)
-
 - 📫 How to reach me **estefaniavidalbouzon@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAElZ2XqdiQ/yCy5Fc5t3NUrDEVA-b5CpQ/view?utm_content=DAElZ2XqdiQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton](CV)
+- 📄 Know about my experiences [CV](https://www.canva.com/design/DAElZ2XqdiQ/yCy5Fc5t3NUrDEVA-b5CpQ/view?utm_content=DAElZ2XqdiQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
