@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Estefania Vidal
+### Hi there 👋 
+### I'm Estefania Vidal
 
 - 🔭 I’m currently working on [LexAI](https://lexai.herokuapp.com)
 
